@@ -6,7 +6,7 @@ import About from './contents/About';
 import Education from './contents/Education';
 import Skills from './contents/Skills';
 import Contact from './contents/Contact';
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 
 //make skills page about CS skills and also everything else (what I'm interested in etc)
@@ -14,7 +14,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
 	return(
-		<Router>
+		<Router basename="/">
 			<div className="App">
 				<NavBar />
 				<Switch>

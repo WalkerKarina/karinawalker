@@ -20,8 +20,8 @@ class About extends Component {
 							I'm Karina, class of 2025 at Harvey Mudd College, Claremont where I will be studying Mathematics and Computer Science. 
 						</p>
 						<p>
-							During my 2020-2021 gap year, I have been learning Machine Learning and how to build products. I'm especially interested in the mathematics between machine learning. 
-							Although I have been studying Computer Science since 2016, I found that circculum of Computer Science taught me little about the process of how to actually produce good products. I've been working on full-stack web development as well as using tensorflow to integerate deep learning.
+							During my 2020-2021 gap year, I have been studying Machine Learning and how to build products. I'm especially interested in the mathematics used in machine learning. 
+							Although I have been studying Computer Science since 2016, I found that the conventional subject of Computer Science taught me little about the actual process of how to  produce good products. I've been working on full-stack web development as well as using tensorflow to integerate deep learning in various products.
 						</p>
 					</div>
 					<div className="col col-md-4 col-sm-8">
@@ -33,8 +33,9 @@ class About extends Component {
 					<div className="col col-md-8">
 						<h3>Current Projects</h3>
 						<ul>
-							<li>My Portfolio</li>
-							<li>Teaching Report</li>
+							<li><b>SOS For Haze</b> — Developed website for an NGO SOS For Haze. Raises awareness on the impact deforestation can have on the environment.</li>
+							<li><b>SOS For Haze</b> — Developed website for an NGO SOS For Haze. Raises awareness on the impact deforestation can have on the environment.</li>
+							<li><a href="https://walkerkarina.github.io/my_portfolio_v2">My Portfolio</a></li>
 						</ul>
 						<br></br>
 						<h3>Past Projects</h3>
