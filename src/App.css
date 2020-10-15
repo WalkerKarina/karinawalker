@@ -1,0 +1,78 @@
+body {
+	font-family: 'Raleway';
+}
+
+#navbarstyle{
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.App {
+	width: 100vw;
+	min-height: 100vh;
+}
+
+
+.active {
+	font-weight: bolder;
+	text-decoration: none;
+}
+
+.social {
+	position: relative;
+	bottom: 60px;
+}
+
+.social i {
+	padding-right: 30px;
+	font-size: 25px;
+	color: #9a9b9c;
+}
+
+.social i:hover {
+	color: #000000;
+}
+
+
+p {
+	font-size: var(--fontsize-p);
+}
+
+h1,h2,h3,h4,p {
+	margin: 10px;
+}
+
+.widecard {
+	border:0px solid #9a9b9c;
+	margin:30px 0px 30px 0px;
+}
+.widecard:hover {
+	color: #1b1d20;
+	background-color: #ffffff;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.profilePic {
+	max-width: 100%;
+	padding-top: 100px;
+	padding-bottom: 60px;
+}
+
+.container {
+	position: relative;
+	padding-top: 10px;
+}
+
+.row-content {
+	padding-top: 10px;
+}
+
+
+.contactSocial{
+	padding-top: 100px;
+}
+
+.footer{
+	margin:0px auto;
+    padding: 200px 0px 20px 0px;
+}
