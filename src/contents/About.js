@@ -34,14 +34,15 @@ class About extends Component {
 						<h3>Current Projects</h3>
 						<ul>
 							<li><b>SOS For Haze</b> — Developed website for an NGO SOS For Haze. Raises awareness on the impact deforestation can have on the environment.</li>
-							<li><b>SOS For Haze</b> — Developed website for an NGO SOS For Haze. Raises awareness on the impact deforestation can have on the environment.</li>
-							<li><a href="https://walkerkarina.github.io/my_portfolio_v2">My Portfolio</a></li>
+							<li><b>Online Whiteboard</b> — Developed website to enbale whiteboard drawings on the web.</li>
+							<li><b>Teaching Report</b> — Website which enables tutors and students to keep track of their online learning.</li>
 						</ul>
 						<br></br>
 						<h3>Past Projects</h3>
 						<ul>
-							<li><b>Salude</b> — SheHacks U18 First Place winner 2019. Created an application under the theme of "Empowerment". Presented to Visa Executives and various entrepreneurs.</li>
+							<li><b>Salude</b> — SheHacks U18 First Place Winner 2019. Created an application under the theme of "Empowerment". Presented to Visa Executives and various entrepreneurs.</li>
 							<li><b>Easify NLP</b> — An automated recipe converter using spaCy, an NLP library. Automatic identification of key components in a recipe to enable units conversion. </li>
+							<li><a href="https://walkerkarina.github.io/my_portfolio_v2/#/about"><b>My Portfolio</b></a></li>
 						</ul>
 					</div>
 				</div>

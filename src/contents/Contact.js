@@ -8,7 +8,6 @@ class Contact extends Component {
 				<div>
 					<h1>Contact Me</h1>
 					<h3>Email  :   karina.walker.nicky@gmail.com</h3>
-					<h3>Instagram   :   @karina.walker</h3>
 				</div>
 				<div className="contactSocial">
 						<Social />
