@@ -33,16 +33,18 @@ class About extends Component {
 					<div className="col col-md-8">
 						<h3>Current Projects</h3>
 						<ul>
+							<li><b>Teaching Report</b> — Transformed GPT2 NLP model into TensorFlow.js. Website which enables tutors and students to keep track of their online learning. </li>
 							<li><b>SOS For Haze</b> — Developed website for an NGO SOS For Haze. Raises awareness on the impact deforestation can have on the environment.</li>
+							<li><b>Doodle</b> — Implementation and creation of own CNN model using Doodle's Quick Draw Dataset. Identifies top 5 possible objects from sketch.</li>
 							<li><b>Online Whiteboard</b> — Developed website to enbale whiteboard drawings on the web.</li>
-							<li><b>Teaching Report</b> — Website which enables tutors and students to keep track of their online learning.</li>
 						</ul>
 						<br></br>
 						<h3>Past Projects</h3>
 						<ul>
+							<li><a href="https://walkerkarina.github.io/my_portfolio_v2/#/about"><b>My Portfolio</b></a></li>
+							<li><a href="http://shop.oogushi-farm2.co.jp/"><b>Oogushi Farm</b></a> — Re-created E-Commerce website selling fruits for a Japanese Farm. (Created both <a href="http://shop.oogushi-farm2.co.jp/">Oogushi Farm</a> and <a href="https://www.gogo-oogushi.com/">Oogushi Farm 2</a>) </li>
 							<li><b>Salude</b> — SheHacks U18 First Place Winner 2019. Created an application under the theme of "Empowerment". Presented to Visa Executives and various entrepreneurs.</li>
 							<li><b>Easify NLP</b> — An automated recipe converter using spaCy, an NLP library. Automatic identification of key components in a recipe to enable units conversion. </li>
-							<li><a href="https://walkerkarina.github.io/my_portfolio_v2/#/about"><b>My Portfolio</b></a></li>
 						</ul>
 					</div>
 				</div>
