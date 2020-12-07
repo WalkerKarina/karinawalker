@@ -21,7 +21,7 @@ class About extends Component {
 						</p>
 						<p>
 							During my 2020-2021 gap year, I have been studying Machine Learning and how to build products. I'm especially interested in the mathematics used in machine learning. 
-							Although I have been studying Computer Science since 2016, I found that the conventional subject of Computer Science taught me little about the actual process of how to  produce good products. I've been working on full-stack web development as well as using tensorflow to integerate deep learning in various products.
+							Although I have been studying Computer Science since 2016, I found that the conventional subject of Computer Science taught me little about the actual process of how to  produce good products. As such, I've been working on full-stack web development as well as using tensorflow to integerate deep learning in various products.
 						</p>
 					</div>
 					<div className="col col-md-4 col-sm-8">
@@ -41,8 +41,8 @@ class About extends Component {
 						<br></br>
 						<h3>Past Projects</h3>
 						<ul>
-							<li><a href="https://walkerkarina.github.io/my_portfolio_v2/#/about"><b>My Portfolio</b></a></li>
 							<li><a href="http://shop.oogushi-farm2.co.jp/"><b>Oogushi Farm</b></a> — Re-created E-Commerce website selling fruits for a Japanese Farm. (Created both <a href="http://shop.oogushi-farm2.co.jp/">Oogushi Farm</a> and <a href="https://www.gogo-oogushi.com/">Oogushi Farm 2</a>) </li>
+							<li><a href="https://walkerkarina.github.io/my_portfolio_v2/#/about"><b>My Portfolio</b></a></li>
 							<li><b>Salude</b> — SheHacks U18 First Place Winner 2019. Created an application under the theme of "Empowerment". Presented to Visa Executives and various entrepreneurs.</li>
 							<li><b>Easify NLP</b> — An automated recipe converter using spaCy, an NLP library. Automatic identification of key components in a recipe to enable units conversion. </li>
 						</ul>
