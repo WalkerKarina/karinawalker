@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `yarn deploy`
 
-Builds the app to update github pages <a href="https://walkerkarina.github.io/my_portfolio_v2/#/about"></a>.<br />
+Builds the app to update github pages <a href="https://walkerkarina.github.io/my_portfolio_v2/#/about">GitHubPage</a><br />
 
 ### `yarn start`
 
