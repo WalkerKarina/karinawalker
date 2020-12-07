@@ -9,7 +9,7 @@ class Skills extends Component {
 		super(props);
 		this.state={
 			'myskills':['HTML','CSS','JS','PHP','REACT JS','MONGODB','REACT NATIVE'],
-			'myAwards':['UKMT Gold 2018', 'UKMT Silver 2019']
+			'myAwards':['SheHacks First Place U18 2019', 'UKMT Gold 2018 Maths', 'UKMT Silver 2019 Maths']
 		};
 	}
 
