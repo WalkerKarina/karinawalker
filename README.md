@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn deploy`
+
+Builds the app to update github pages <a href="https://walkerkarina.github.io/my_portfolio_v2/#/about"></a>.<br />
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
