@@ -43,7 +43,7 @@ My current project is implementing OpenAI’s GPT2 text-generation model. As an 
 							<li><a href="https://walkerkarina.github.io/my_portfolio_v2/#/about"><b>My Portfolio</b></a></li>
 							<li><b>Salude</b> — SheHacks U18 First Place Winner 2019. Created an application under the theme of "Empowerment". Presented to Visa Executives and various entrepreneurs.</li>
 							<li><b>Online Whiteboard</b> — Enables whiteboard drawings on the web.</li>
-							<li><b>Easify NLP</b> — An automated recipe converter using spaCy, an NLP library. Automatic identification of key components in a recipe to enable units conversion. </li>
+							<li><b>Easify NLP</b> — An automated recipe converter using spaCy, an NLP library. Automatic identification of key components in a recipe for units conversion. </li>
 						</ul>
 					</div>
 				</div>

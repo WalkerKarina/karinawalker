@@ -20,30 +20,37 @@ class Skills extends Component {
 				<div className="col">
 					<h1>My Certificates</h1>
 					<ul>
-						<li>DeepLearning.AI TensorFlow Developer Specialization (4 courses)</li>
-						<li>Mathematics for Machine Learning Specialization (3 courses)</li>
-						<li>Deep Learning Specialization (5 courses)</li>
-						<li>Python for Everybody Specialization (5 courses)</li>
-						<li>Building Database Applications in PHP</li>
-						<li>Front-End Web Development with React</li>
-						<li>Building Web Applications in PHP</li>
-						<li>Front-End Web UI Frameworks and Tools: Bootstrap 4</li>
-						<li>Introduction to Programming with MATLAB</li>
+						<li> <a href= "https://www.coursera.org/account/accomplishments/specialization/certificate/4YU95LCD9VT2"> DeepLearning.AI TensorFlow Developer Specialization (4 courses)</a></li>
+						<li><a href= "
+https://www.coursera.org/account/accomplishments/specialization/certificate/H6FBGFNCTABJ">Mathematics for Machine Learning Specialization (3 courses)</a></li>
+						<li> <a href="
+https://www.coursera.org/account/accomplishments/specialization/certificate/VXANGX5UMBL2">Deep Learning Specialization (5 courses)</a></li>
+						<li> <a href="
+https://www.coursera.org/account/accomplishments/specialization/certificate/BL2E4P4EGSY9">Python for Everybody Specialization (5 courses)</a></li>
+						<li> <a href="
+https://www.coursera.org/account/accomplishments/certificate/QNKDV9ESPW3J">Building Database Applications in PHP</a></li>
+						<li> <a href="
+https://www.coursera.org/account/accomplishments/certificate/JW26CMZZT6QN">Front-End Web Development with React</a></li>
+						<li> <a href="
+https://www.coursera.org/account/accomplishments/certificate/Z4JF2LSWWE6Q">Building Web Applications in PHP</a></li>
+						<li> <a href="https://www.coursera.org/account/accomplishments/certificate/JW26CMZZT6QN">Front-End Web UI Frameworks and Tools: Bootstrap 4</a></li>
+						<li> <a href="
+https://www.coursera.org/account/accomplishments/certificate/ARC5NHED8Q37">Introduction to Programming with MATLAB </a></li>
 						<li>Introduction to Mathematical Thinking</li>
 					</ul>
 				</div>
-				<div className="col col-md-4">
-					<h1>My Skills</h1>
+				<div className="col col">
+					<h1>My Awards</h1>
 					<ul>
-						{this.state.myskills.map((value)=>{
+						{this.state.myAwards.map((value)=>{
 						return <li>{value}</li>
 						})}
 					</ul>
 				</div>
-				<div className="col col-md-8">
-					<h1>My Awards</h1>
+				<div className="col col">
+					<h1>My Skills</h1>
 					<ul>
-						{this.state.myAwards.map((value)=>{
+						{this.state.myskills.map((value)=>{
 						return <li>{value}</li>
 						})}
 					</ul>
