@@ -17,7 +17,7 @@ class Skills extends Component {
 	return (
 		<div className="container">
 			<div className="row-content">
-				<div className="col col-md-4">
+				<div className="col">
 					<h1>My Certificates</h1>
 					<ul>
 						<li>DeepLearning.AI TensorFlow Developer Specialization (4 courses)</li>
@@ -27,7 +27,6 @@ class Skills extends Component {
 						<li>Building Database Applications in PHP</li>
 						<li>Front-End Web Development with React</li>
 						<li>Building Web Applications in PHP</li>
-						<li></li>
 						<li>Front-End Web UI Frameworks and Tools: Bootstrap 4</li>
 						<li>Introduction to Programming with MATLAB</li>
 						<li>Introduction to Mathematical Thinking</li>
@@ -41,7 +40,7 @@ class Skills extends Component {
 						})}
 					</ul>
 				</div>
-				<div className="col col-md-6">
+				<div className="col col-md-8">
 					<h1>My Awards</h1>
 					<ul>
 						{this.state.myAwards.map((value)=>{
