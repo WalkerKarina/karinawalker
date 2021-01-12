@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Footer from '../components/FooterComponent';
+import breadPic from '../images/breadPic.jpeg';
 
 //put my list of maths competiton awards
 //make the awards section go beside the my skills
@@ -16,7 +17,20 @@ class Interests extends Component {
 	render() {
 	return (
 		<div className="container">
-			My interests
+			<div className="row row-content">
+				<p>My first attempt at Spelt Bread</p>
+				<div>
+					<img src={breadPic} alt="breadPic" className="profilePic img-fluid"></img>
+				</div>
+			</div>
+			<div className="row row-content">
+				<p>A few articles on Maths</p>
+				<div>
+					<a href="https://medium.com/@karinawalker">MathsBlogDover</a>	
+				</div>
+			</div>
+
+
 			<Footer />
 		</div>
 		)

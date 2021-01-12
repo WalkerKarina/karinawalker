@@ -14,14 +14,18 @@ class About extends Component {
 						<h1>I'm Karina Walker</h1>
 						<br></br>
 						<p>
-							I'm Karina, class of 2025 at Harvey Mudd College, California, where I am set to study Mathematics and Computer Science. I am currently creating multiple web applications that incorporate machine learning solutions.  
+I'm Karina! I'm currently on a gap year, and will soon be attending Harvey Mudd College in California, where I plan to study Mathematics and Computer Science. I graduated, albeit online, from UWCSEA Dover — an international school in Singapore. I enjoy the intricacy of maths as well as the stable and steady progression in complexity. Ultimately I enjoy unearthing the reasoning behind problems and being able to see the final path to a solution. 
 						</p>
 						<p>
-During my gap year from Aug 2020, amongst other certifications, I have completing the Deep Learing Specialization. I am especially interested in the mathematics used in machine learning and understanding lower level implementations.
+I spent the first two months of my gap year plunging into the ethics of environmental eating as part of my transition to vegetarianism and exploration of veganism. My parents entertained my various recipes where I explored a rainbow of beans and ventured into the realm of ancient grains. The philosophy I developed was the importance to view each change as a choice rather than that I was limiting myself. With this attitude, for every meat product I chose not to consume, I found 2-3 new foods to try and adopt.
 </p>
 <p>
-My current project is implementing OpenAI’s GPT2 text-generation model. As an online tutor, I spend a lot of time writing student reports.  As such, I aim to automate parts of the process. I initially attempted a conversion to tensorflow.js to run the model in browser, but found the model too large for the limited browser memory. Subsequently, I have progressed to creating a REST API to serve the model to browser.
+Since graduating from high school, I've dived into the world of machine learning. As an avid mathematician, I'm especially curious about Principle Component Analysis and optimizing the implementations of algorithms.
 						</p>
+<p> In my spare time, I like to tutor high school students in Mathematics, Science, and Social Studies. I’ve been touched by their tangible improvements. I had the pleasure of relishing in one of my student’s successes — successfully passing an entrance exam for their desired program. 
+</p>
+<p> As an online tutor, I spend a lot of time writing student reports. So I'm currently working on applying some of the deep learning theory I've read about to automate parts of the process.
+</p>
 					</div>
 					<div className="col col-md-4 col-sm-8">
 						<img src={profilePicture} alt="ProfilePicture" className="profilePic img-fluid"></img>
