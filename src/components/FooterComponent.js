@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Social from '../components/SocialComponent';
 
 function Footer(props){
