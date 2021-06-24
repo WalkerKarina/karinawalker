@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
-//import NavItem from './NavItemComponent';
 import { LinkContainer } from 'react-router-bootstrap';
 
 class NavBar extends Component {
@@ -30,14 +29,11 @@ class NavBar extends Component {
 						<LinkContainer to="/about">
 							<Nav.Link href="/about" activec={this.activeItem}>About</Nav.Link>
 						</LinkContainer>
-						<LinkContainer to="/education">
-							<Nav.Link href="/education" activec={this.activeItem}>Education</Nav.Link>
-						</LinkContainer>
 						<LinkContainer to="/interests">
 							<Nav.Link href="/interests" activec={this.activeItem}>Interests</Nav.Link>
 						</LinkContainer>
-						<LinkContainer to="/contact">
-							<Nav.Link href="/contact" activec={this.activeItem}>Contact</Nav.Link>
+						<LinkContainer to="/education">
+							<Nav.Link href="/education" activec={this.activeItem}>Education</Nav.Link>
 						</LinkContainer>
 					</Nav>
 				</Navbar.Collapse>

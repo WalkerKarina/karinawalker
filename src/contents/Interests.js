@@ -2,9 +2,6 @@ import React, { Component } from 'react'
 import Footer from '../components/FooterComponent';
 import breadPic from '../images/breadPic.jpeg';
 
-//put my list of maths competiton awards
-//make the awards section go beside the my skills
-
 class Interests extends Component {
 	constructor(props) {
 		super(props);
@@ -17,20 +14,47 @@ class Interests extends Component {
 	render() {
 	return (
 		<div className="container">
-			<div className="row row-content">
-				<p>My first attempt at Spelt Bread</p>
-				<div>
-					<img src={breadPic} alt="breadPic" className="profilePic img-fluid"></img>
+			 <div className="row row-content">
+				<div className="col col-md-8">
+					<h4>Ethical Eating</h4>
+					<p>
+When I turned 18, I became a vegetarian. I’ve spent the past two years plunging into the ethics of environmentally-friendly eating. It’s deeply important to me that I view this change as a choice, rather than a limitation I’ve imposed on myself. So for every meat product I’ve chosen not to consume, I’ve found 2-3 new foods to taste and incorporate into my diet.
+						</p>
+					<p>
+During my gap year, I focused on exploring nutritional science and veganism. I tasted a rainbow of beans and ancient grains, and convinced my parents to entertain my adventurous recipes.
+
+					</p>
+					<p>
+I took it upon myself to become the designated restaurant finder amongst my friends, and even surprised them with elusively meaty but 100% veggie food. Over the past few months I’ve warmly welcomed two of my friends into the world of vegetarianism.
+					</p>
+
+					
+				</div>
+				<div className="col col-md-4">
+					<br></br>
+					<br></br>
+					<img src={breadPic} alt="breadPic" className="img-fluid"></img>
+					<span>My first attempt at Spelt Bread</span>
 				</div>
 			</div>
 			<div className="row row-content">
-				<p>A few articles on Maths</p>
-				<div>
-					<a href="https://medium.com/@karinawalker">MathsBlogDover</a>	
+				<div className="col col-md-12">
+				 	<h4>I’m really into documentaries and historical dramas. Here are some of my favourites:
+</h4>
+				 	<ul>
+				 		<li>The Great</li>
+				 		<li>Planet of The Humans</li>
+				 		<li>The Need to Grow</li>
+				 		<li>Misbehaviour</li>
+				 		<li>The Suffragettes</li>
+				 	</ul>
 				</div>
 			</div>
-
-
+			<div className="row row-content">
+				<div className="col col-md-12">
+				<h4>I also wrote a few articles on interesting mathematics. <a href="https://medium.com/@karinawalker">MathsBlogDover</a></h4>
+				</div>
+			</div>
 			<Footer />
 		</div>
 		)

@@ -1,5 +1,5 @@
 body {
-	font-family: 'Raleway';
+	
 }
 
 #navbarstyle{
@@ -48,11 +48,6 @@ li {
 .widecard {
 	border:0px solid #9a9b9c;
 	margin:30px 0px 30px 0px;
-}
-.widecard:hover {
-	color: #1b1d20;
-	background-color: #ffffff;
-	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 .profilePic {
