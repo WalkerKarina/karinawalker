@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/karinawalker/static/css/main.ce8eef17.chunk.css",
-    "main.js": "/karinawalker/static/js/main.387f8562.chunk.js",
-    "main.js.map": "/karinawalker/static/js/main.387f8562.chunk.js.map",
-    "runtime-main.js": "/karinawalker/static/js/runtime-main.67ca5c5d.js",
-    "runtime-main.js.map": "/karinawalker/static/js/runtime-main.67ca5c5d.js.map",
-    "static/css/2.54168493.chunk.css": "/karinawalker/static/css/2.54168493.chunk.css",
-    "static/js/2.5b512cfd.chunk.js": "/karinawalker/static/js/2.5b512cfd.chunk.js",
-    "static/js/2.5b512cfd.chunk.js.map": "/karinawalker/static/js/2.5b512cfd.chunk.js.map",
-    "index.html": "/karinawalker/index.html",
-    "static/css/2.54168493.chunk.css.map": "/karinawalker/static/css/2.54168493.chunk.css.map",
-    "static/css/main.ce8eef17.chunk.css.map": "/karinawalker/static/css/main.ce8eef17.chunk.css.map",
-    "static/js/2.5b512cfd.chunk.js.LICENSE.txt": "/karinawalker/static/js/2.5b512cfd.chunk.js.LICENSE.txt",
-    "static/media/breadPic.274e3259.jpeg": "/karinawalker/static/media/breadPic.274e3259.jpeg",
-    "static/media/font-awesome.min.css": "/karinawalker/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/profile_image.97a1fde4.png": "/karinawalker/static/media/profile_image.97a1fde4.png"
+    "main.css": "/static/css/main.ce8eef17.chunk.css",
+    "main.js": "/static/js/main.e34e813b.chunk.js",
+    "main.js.map": "/static/js/main.e34e813b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8ff641a8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8ff641a8.js.map",
+    "static/css/2.2b1f0fad.chunk.css": "/static/css/2.2b1f0fad.chunk.css",
+    "static/js/2.5b512cfd.chunk.js": "/static/js/2.5b512cfd.chunk.js",
+    "static/js/2.5b512cfd.chunk.js.map": "/static/js/2.5b512cfd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2b1f0fad.chunk.css.map": "/static/css/2.2b1f0fad.chunk.css.map",
+    "static/css/main.ce8eef17.chunk.css.map": "/static/css/main.ce8eef17.chunk.css.map",
+    "static/js/2.5b512cfd.chunk.js.LICENSE.txt": "/static/js/2.5b512cfd.chunk.js.LICENSE.txt",
+    "static/media/breadPic.274e3259.jpeg": "/static/media/breadPic.274e3259.jpeg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/profile_image.97a1fde4.png": "/static/media/profile_image.97a1fde4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.67ca5c5d.js",
-    "static/css/2.54168493.chunk.css",
+    "static/js/runtime-main.8ff641a8.js",
+    "static/css/2.2b1f0fad.chunk.css",
     "static/js/2.5b512cfd.chunk.js",
     "static/css/main.ce8eef17.chunk.css",
-    "static/js/main.387f8562.chunk.js"
+    "static/js/main.e34e813b.chunk.js"
   ]
 }
