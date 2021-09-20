@@ -13,19 +13,18 @@ class About extends Component {
 						<h1>Karina Walker</h1>
 						<br></br>
 						<p>
-I'm Karina! I'm currently on a gap year, and will soon be attending Harvey Mudd College in California. I recently graduated from UWCSEA Dover (IB school in Singapore).
+Hi, I'm Karina! 
 						</p>
 <p>
-At Mudd, I plan to study Mathematics and Computer Science. While I’m excited by the intricacy of maths, I get most satisfaction from progressing through complex concepts and problems. I love unearthing the reasoning behind problems and intuitively navigating my way towards solutions.
-						</p>
+I am a first-year at <a href="https://www.hmc.edu/">Harvey Mudd College</a> in California studying Mathematics and Computer Science. I’m half Japanese, half British and was born and raised in Singapore.						</p>
 <p> 
-Since graduating from high school, I've dived into the world of machine learning. As an avid mathematician, I'm especially curious about machine learning fundamentals and optimizing the implementations of algorithms.
+During my 2020-2021 gap year, I worked at <a href="https://www.coinhako.com/">Coinhako</a> as a Software Engineer for 3 months. I took the lead on a project to automate a user subscription service where I created an API and categorized subscribers to streamline operations. I also expanded a backend risk evaluation service and created a user-friendly front-end service to accompany it.
 </p>
 <p> 
-In my spare time, I like to tutor high school students in Mathematics, Science, and Social Studies. I’m particularly proud of one student of mine who—despite having dropped out of school due to language barriers—passed a highly competitive entrance exam for their desired high school program.
+During my year, I also dived into the world of machine learning. I took various courses and created my own projects whilst unearthing the mathematical reasoning behind the computations. 
 </p>
 <p> 
-As an online tutor, I spend a lot of time writing student reports. So I'm currently working on applying some of the deep learning theory I've read about to automate this process.
+As an online tutor, I spend a lot of time writing student reports. So I'm currently working on applying some of the deep learning theories I've read about to automate this process.
 </p>
 
 
@@ -37,10 +36,9 @@ As an online tutor, I spend a lot of time writing student reports. So I'm curren
 				</div>
 				<div className="row row-content">
 					<div className="col col-md-8">
-						<h3>Current Projects</h3>
+						<h3>Current Project</h3>
 						<ul>
 							<li><b>Teaching Report</b> — Experimenting with GPT2 for generating student performance comment templates. Implementing GPT2 in browser. </li>
-							<li><b>SOS For Haze</b> — Developing a website for SOS For Haze, a Singaporean NGO. To raise awareness on the negative impact haze and deforestation has on the environment.</li>
 						</ul>
 						<br></br>
 						<h3>Past Projects</h3>

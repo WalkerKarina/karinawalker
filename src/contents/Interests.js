@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Footer from '../components/FooterComponent';
-import breadPic from '../images/breadPic.jpeg';
+import driftice from '../images/driftice.jpeg';
 
 class Interests extends Component {
 	constructor(props) {
@@ -14,27 +14,41 @@ class Interests extends Component {
 	render() {
 	return (
 		<div className="container">
-			 <div className="row row-content">
+		<div className="row row-content">
 				<div className="col col-md-8">
-					<h4>Ethical Eating</h4>
-					<p>
-When I turned 18, I became a vegetarian. I’ve spent the past two years plunging into the ethics of environmentally-friendly eating. It’s deeply important to me that I view this change as a choice, rather than a limitation I’ve imposed on myself. So for every meat product I’ve chosen not to consume, I’ve found 2-3 new foods to taste and incorporate into my diet.
-						</p>
-					<p>
-During my gap year, I focused on exploring nutritional science and veganism. I tasted a rainbow of beans and ancient grains, and convinced my parents to entertain my adventurous recipes.
-
-					</p>
-					<p>
-I took it upon myself to become the designated restaurant finder amongst my friends, and even surprised them with elusively meaty but 100% veggie food. Over the past few months I’ve warmly welcomed two of my friends into the world of vegetarianism.
-					</p>
-
-					
+				 	<h4>Some of my Gap Year experiences</h4>
+				 	<ul>
+				 		<li>Became a skateboarder — became a regular at the skateparks in Singapore</li>
+				 		<li>Worked at <a href="https://rusutsu.com/en/">Rusutsu</a> ski resort in Hokkaido for 3 months — progressed from a beginner to advanced snowboarder</li>
+				 		<li>Executed a solo expedition around northern Hokkaido</li>
+				 		<li>Surfed in coastal Japan — I can stand!</li>
+				 		<li>Paraglided in Kyoto</li>
+				 		<li>Travelled historical sights in Osaka and Kyoto</li>
+				 		<li>Volunteered at an apple farm — <a href="https://www.youtube.com/watch?v=thGnQ6msE78&t=74s">pick apples with me</a>, <a href="https://www.youtube.com/watch?v=k_v5xKGXWWw&t=165s">walk around the farm with me</a>, and a <a href="https://www.instagram.com/p/CICq4aEjfLo/">promotional video I created</a></li>
+				 		<li>Completed a Manual Driver's License camp</li>
+				 		<li>Software Engineer internship at a cryptocurrency brokerage firm</li>
+				 	</ul>
 				</div>
 				<div className="col col-md-4">
 					<br></br>
 					<br></br>
-					<img src={breadPic} alt="breadPic" className="img-fluid"></img>
-					<span>My first attempt at Spelt Bread</span>
+					<img src={driftice} alt="driftice" className="img-fluid"></img>
+					<span >The surreal Northern Hokkaido Drift Ice</span>
+				</div>
+			</div>
+			 <div className="row row-content">
+				<div className="col col-md-12">
+					<h4>Ethical Eating</h4>
+					<p>
+When I turned 18, I became a vegetarian. I’ve spent the past two years plunging into the ethics of environmentally friendly eating. It’s deeply important to me that I view this change as a choice. So for every meat product I’ve chosen not to consume, I’ve found 2-3 new foods to taste and incorporate into my diet.
+						</p>
+					<p>
+During my gap year, I focused on exploring nutritional science and veganism. I tasted a rainbow of beans and ancient grains and convinced my parents to entertain my adventurous recipes.
+
+					</p>
+					<p>
+I took it upon myself to become the designated restaurant finder amongst my friends and even surprised them with elusively meaty but 100% veggie food. Over the past few months, I’ve warmly welcomed two of my friends into the world of vegetarianism.
+					</p>
 				</div>
 			</div>
 			<div className="row row-content">
@@ -47,12 +61,13 @@ I took it upon myself to become the designated restaurant finder amongst my frie
 				 		<li>The Need to Grow</li>
 				 		<li>Misbehaviour</li>
 				 		<li>The Suffragettes</li>
+				 		<li>Seaconspiracy</li>
 				 	</ul>
 				</div>
 			</div>
 			<div className="row row-content">
 				<div className="col col-md-12">
-				<h4>I also wrote a few articles on interesting mathematics. <a href="https://medium.com/@karinawalker">MathsBlogDover</a></h4>
+				<h4>I also <a href="https://medium.com/@karinawalker">write.</a></h4>
 				</div>
 			</div>
 			<Footer />
