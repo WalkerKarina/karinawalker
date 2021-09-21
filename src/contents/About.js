@@ -8,7 +8,7 @@ class About extends Component {
 		return (
 			<div className="container">
 				<div className="row row-content">
-					<div className="col col-md-8 col-sm-8">
+					<div className="col col-md-8 col-sm-12 order-sm-1  ">
 						 {/* <h1 className="subtopic">About Me</h1> */}
 						<h1>Karina Walker</h1>
 						<br></br>
@@ -29,7 +29,7 @@ As an online tutor, I spend a lot of time writing student reports. So I'm curren
 
 
 					</div>
-					<div className="col col-md-4 col-sm-8">
+					<div className="col col-md-4 order-first col-sm-8 order-sm-12 ">
 						<img src={profilePicture} alt="ProfilePicture" className="profilePic img-fluid"></img>
 						 {/* <Social /> */}
 					</div>

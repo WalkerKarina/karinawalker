@@ -15,7 +15,7 @@ class Interests extends Component {
 	return (
 		<div className="container">
 		<div className="row row-content">
-				<div className="col col-md-8">
+				<div className="col col-md-8 col-sm-12 order-sm-1">
 				 	<h4>Some of my Gap Year experiences</h4>
 				 	<ul>
 				 		<li>Became a skateboarder — became a regular at the skateparks in Singapore</li>
@@ -29,7 +29,7 @@ class Interests extends Component {
 				 		<li>Software Engineer internship at a cryptocurrency brokerage firm</li>
 				 	</ul>
 				</div>
-				<div className="col col-md-4">
+				<div className="col col-md-4 col-sm-12 order-sm-12">
 					<br></br>
 					<br></br>
 					<img src={driftice} alt="driftice" className="img-fluid"></img>
