@@ -31,7 +31,7 @@ class Education extends Component {
 			<div className="container">
 				<div className="row-content">
 					<h1>My Education</h1>
-					<WideCard title="Bachelor of Science in Mathematics and Computer Science" where="Harvey Mudd College USA" from="August 2021" to="Present"/>
+					<WideCard title="Bachelor of Science in Mathematics & Computer Science" where="Harvey Mudd College USA" from="August 2021" to="Present"/>
 					<WideCard title="IB Diploma" where="United World College of South East Asia Dover" from="2007" to="2020"/>
 				</div>
 				<div className="row-content">

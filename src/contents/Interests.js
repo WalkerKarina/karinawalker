@@ -21,7 +21,7 @@ class Interests extends Component {
 				 	<ul>
 				 		<li>A Software Engineer internship at a cryptocurrency brokerage firm</li>
 				 		<li>Learning how to skateboard. I soon became a regular at the skateparks in Singapore!</li>
-				 		<li>Worked at <a href="https://rusutsu.com/en/">Rusutsu</a> ski resort in Hokkaido, Japan for 3 months. Now, I cannot stop dreaming about the next time I will get to go snowboarding!</li>
+				 		<li>Working at <a href="https://rusutsu.com/en/">Rusutsu</a> ski resort in Hokkaido, Japan for 3 months. Now, I cannot stop dreaming about the next time I will get to go snowboarding!</li>
 				 		<li>Paragliding in Kyoto, Japan. </li>
 				 		<li>Executing a solo expedition around northern Hokkaido, Japan. I swam in arctic drift ice, visited an ice village, and led a self-guided local food tour. </li>
 				 		<li>Surfing in coastal Japan. (I can now stand!)</li>
