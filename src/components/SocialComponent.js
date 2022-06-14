@@ -10,5 +10,6 @@ class Social extends Component {
 				<a className="btn" href="mailto:khwalker@g.hmc.edu" ><i className="fa fa-envelope-o"></i></a>
 			</div>
 		)
+	}
 }
 export default Social;
