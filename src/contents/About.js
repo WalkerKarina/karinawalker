@@ -9,14 +9,13 @@ class About extends Component {
 			<div className="container">
 				<div className="row row-content">
 					<div className="col-12 col-md-8">
-						 {/* <h1 className="subtopic">About Me</h1> */}
 						<h1>Karina Walker</h1>
 						<br></br>
 						<p>
 Hi, I'm Karina! 
 						</p>
 <p>
-I am a freshman at <a href="https://www.hmc.edu/">Harvey Mudd College</a> studying Mathematics and Computer Science. I’m half Japanese, half British, and was born and raised in Singapore.						</p>
+I am a sophmore at <a href="https://www.hmc.edu/">Harvey Mudd College</a> studying Mathematics and Computer Science. I’m half Japanese, half British, and was born and raised in Singapore.						</p>
 <p> 
 During my 2020-2021 gap year, I worked at <a href="https://www.coinhako.com/">Coinhako</a> as a Software Engineer for three months. I was the project lead in automating a user subscription service. I created an API client and categorized subscribers to streamline operations. I also expanded a backend risk evaluation service and created a user-friendly front-end service to accompany it.
 </p>
