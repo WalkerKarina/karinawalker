@@ -32,9 +32,9 @@ class NavBar extends Component {
 						<LinkContainer to="/interests">
 							<Nav.Link href="/interests" activec={this.activeItem}>Interests</Nav.Link>
 						</LinkContainer>
-						<LinkContainer to="/education">
+						{/*<LinkContainer to="/education">
 							<Nav.Link href="/education" activec={this.activeItem}>Education</Nav.Link>
-						</LinkContainer>
+						</LinkContainer>*/}
 					</Nav>
 				</Navbar.Collapse>
 			</Navbar>

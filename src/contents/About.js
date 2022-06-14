@@ -15,16 +15,16 @@ class About extends Component {
 Hi, I'm Karina! 
 						</p>
 <p>
-I am a sophmore at <a href="https://www.hmc.edu/">Harvey Mudd College</a> studying Mathematics and Computer Science. I’m half Japanese, half British, and was born and raised in Singapore.						</p>
+I am a sophomore at <a href="https://www.hmc.edu/">Harvey Mudd College</a> studying Mathematics and Computer Science. I’m half Japanese, half British, and was born and raised in Singapore.						</p>
+<p>In the summer of 2022, I joined the PayPal Braintree SDK team as a Software Engineer for 3 months. I created a Slackbot to automate and streamline service processes. Under DevOps, I also peer programmed for maintenance and evaluated the automation of SDKs.
+</p>
 <p> 
 During my 2020-2021 gap year, I worked at <a href="https://www.coinhako.com/">Coinhako</a> as a Software Engineer for three months. I was the project lead in automating a user subscription service. I created an API client and categorized subscribers to streamline operations. I also expanded a backend risk evaluation service and created a user-friendly front-end service to accompany it.
 </p>
 <p> 
 I also dived into the world of machine learning. I took various courses and created my own projects to unearth the mathematical reasoning behind computations.
 </p>
-<p> 
-Finally, I worked as a mathematics, social studies, and science tutor. I soon realized how time-intensive it is to write student reports for my six students. Subsequently, I have been working on applying some of the deep learning theories I have read about to automate this process.
-</p>
+
 
 
 					</div>
@@ -35,13 +35,16 @@ Finally, I worked as a mathematics, social studies, and science tutor. I soon re
 				</div>
 				<div className="row row-content">
 					<div className="col col-md-8">
-						<h3>Current Project</h3>
+						<h3>Current Projects</h3>
 						<ul>
-							<li><b>Teaching Report</b> — Experimenting with GPT2 for generating student performance comment templates. Implementing GPT2 in browser. </li>
+							<li><b><a href="https://www.thedormdigest.com/">TheDormDigest</a></b> — Co-founded a blog using Webflow to share college lifestyle hacks and experience</li>
 						</ul>
 						<br></br>
 						<h3>Past Projects</h3>
 						<ul>
+							<li><b>Third Place in West Coast Regional Datathon Fall 2021 by Citadel</b> — Created a report on A/B Testing Preferences For Clickbait Articles.</li>
+							<li><b><a href="https://github.com/p-ai-org/p-climate">P-Climate Modeling</a></b> — Applied AI for climate reconstruction using proxy data</li>
+							<li><b>Teaching Report</b> — Experimented with GPT2 to generate student performance comment templates. Attempted to implement GPT2 in browser. </li>
 							<li><b><a href="https://walkerkarina.github.io/doodle/">Doodle</a></b> — Implementation and creation of CNN model using Doodle's Quick Draw Dataset. Runs in brower using tensorflow.js</li>
 							<li><a href="http://shop.oogushi-farm2.co.jp/"><b>Oogushi Farm</b></a> — Re-created E-Commerce website selling fruits for a Japanese Farm. I created both <a href="http://shop.oogushi-farm2.co.jp/">Oogushi Farm</a> and <a href="https://www.gogo-oogushi.com/">Oogushi Farm 2</a>. </li>
 							<li><b>Salude</b> — SheHacks U18 First Place Winner 2019. I designed an application under the theme of "Empowerment" and presented my application to Visa Executives and various entrepreneurs. Won first place.</li>

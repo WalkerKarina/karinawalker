@@ -18,9 +18,9 @@ function App() {
 				<Route path="/interests">
 					<Interests />
 				</Route>
-				<Route path="/education">
+				{/*<Route path="/education">
 					<Education />
-				</Route>
+				</Route>*/}
 				<Route path="/">
 					<About />
 				</Route>

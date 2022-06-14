@@ -30,11 +30,6 @@ class Education extends Component {
 		return (
 			<div className="container">
 				<div className="row-content">
-					<h1>My Education</h1>
-					<WideCard title="Bachelor of Science in Mathematics & Computer Science" where="Harvey Mudd College USA" from="August 2021" to="Present"/>
-					<WideCard title="IB Diploma" where="United World College of South East Asia Dover" from="2007" to="2020"/>
-				</div>
-				<div className="row-content">
 					<h1>Courses I've Taken</h1>
 					<ul>
 						<li> <a href= "https://www.coursera.org/account/accomplishments/specialization/certificate/4YU95LCD9VT2"> DeepLearning.AI TensorFlow Developer Specialization (4 courses)</a></li>
