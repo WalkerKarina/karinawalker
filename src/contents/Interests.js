@@ -42,7 +42,7 @@ class Interests extends Component {
 				<div className="col col-md-12">
 					<h4>Ethical Eating</h4>
 					<p>
-When I turned 18, I became a vegetarian. I have spent the past two years plunging into the ethics of environmentally friendly eating and nutritional science. It is deeply important to me that I view this change as a choice. As such, for every meat product I have chosen not to consume, I have found 2-3 new foods to taste and incorporate into my diet. 
+When I turned 18, I became a vegetarian. Since then, I have plunged into the ethics of environmentally friendly eating and nutritional science. It is deeply important to me that I view this change as a choice. As such, for every meat product I have chosen not to consume, I have found 2-3 new foods to taste and incorporate into my diet. 
 					</p>
 					<p>
 I have now become the designated restaurant finder for my friends and have continuously surprised them with elusively meaty but 100% veggie food. Over the past few months, I have warmly welcomed two of my friends into the world of vegetarianism.
