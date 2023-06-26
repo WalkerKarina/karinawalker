@@ -15,7 +15,7 @@ class About extends Component {
 Hi, I'm Karina! 
 						</p>
 <p>
-I am a sophomore at <a href="https://www.hmc.edu/">Harvey Mudd College</a> studying Mathematics and Computer Science with a concentration in Environmental Analysis. I’m half Japanese, half British, and was born and raised in Singapore.						</p>
+I am studying Mathematics and Computer Science with a concentration in Environmental Analysis at <a href="https://www.hmc.edu/">Harvey Mudd College</a> class of 2025. I’m half Japanese, half British, and was born and raised in Singapore.						</p>
 <p>For twelve weeks in the summer of 2022, I joined PayPal as a Software Engineer. As part of Braintree, a PayPal service, I practiced pair programming on both the server and web SDK team in an Agile environment. I collaborated on implementing a payment feature for the JavaScript SDK using Test Driven Development including creating the <a href="https://developer.paypal.com/braintree/docs">docs</a>. I also spearheaded the implementation of the <a href="https://www.github.com/paypal/paypalhttp_java/pull/18">GSON</a> library to replace an inefficient custom serializer. After investigating integration issues from large merchants, I streamlined the help channels service process by identifying user pain points and automating the process with a Slack bot.
 </p>
 <p> 
