@@ -75,7 +75,7 @@ class About extends Component {
           <div className="col col-md-8">
             <h3>
               Current Work on{' '}
-              <a href="https://www.linkedin.com/in/karina-walker-54bb69144">
+              <a href="https://www.linkedin.com/in/karina-walker-54bb69144/">
                 Linkedin
               </a>
             </h3>
